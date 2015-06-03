@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E34C6F86-B2C5-48BF-A495-DBB1D5D35061</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SimpleDrawing</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>64F3BB8B5FEB8CF5E8435F6876D5C417FA107C1C</key>
+		<string>https://bitbucket.org/nwoolls/simpledrawing.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SimpleDrawing.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>64F3BB8B5FEB8CF5E8435F6876D5C417FA107C1C</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://bitbucket.org/nwoolls/simpledrawing.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>64F3BB8B5FEB8CF5E8435F6876D5C417FA107C1C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>64F3BB8B5FEB8CF5E8435F6876D5C417FA107C1C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>simpledrawing</string>
+		</dict>
+	</array>
+</dict>
+</plist>
